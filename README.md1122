@@ -43,11 +43,11 @@ Telegram bot to automate and manage channels.
 
 #### Mandatory Vars
 
-- `API_ID` - Get this from [my.telegram.org](https://my.telegram.org/auth)
-- `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth)
-- `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
+- `API_ID` - 28817454
+- `API_HASH` - d2271d7e77258af8e669b756b9fa1ac9
+- `BOT_TOKEN` - 5842496807:AAHlHfQMGjHT3vEbhhoety3yOCFWkQKkg-4
 - `DATABASE_URL` - Will be automatically added by Heroku.
-- `MUST_JOIN` - Username/ID of your telegram channel/group.
+- `MUST_JOIN` - @Botbudibot
 
 ## Functions
 
